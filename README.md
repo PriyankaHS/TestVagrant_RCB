@@ -1,6 +1,11 @@
+![TestVagrant_RCB](https://user-images.githubusercontent.com/95631736/202631325-a9dd7df6-a8c1-4ac2-8e39-2cab4b08f4c1.jpg)
+
 # TestVagrant_RCB Assesment
 
 Root folder must be *TestVagrant_RCB*
+
+## Technologies Used
+Selenium, Python, Pytest
 
 ## Clone Framework into Your Machine
 > git clone https://github.com/PriyankaHS/TestVagrant_RCB
